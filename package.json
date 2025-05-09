@@ -1,0 +1,37 @@
+{
+  "name": "32mins-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@huggingface/transformers": "^3.5.0",
+    "@next/env": "^15.3.1",
+    "@react-three/drei": "^10.0.7",
+    "@react-three/fiber": "^9.1.2",
+    "@tailwindcss/postcss": "^4.1.4",
+    "dotenv": "^16.5.0",
+    "leva": "^0.10.0",
+    "next": "^15.3.1",
+    "openai": "^4.96.0",
+    "phonemizer": "^1.2.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "tailwindcss": "^4.1.4",
+    "tesseract.js": "^6.0.1",
+    "three": "^0.175.0"
+  },
+  "engines": {
+    "node": ">=18.17.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.14.1",
+    "@types/react": "19.1.2",
+    "@types/three": "^0.175.0",
+    "typescript": "5.8.3"
+  }
+}
