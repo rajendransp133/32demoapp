@@ -1,1 +1,1 @@
-ashwin code with checked lipsync-en and partial kokorro
+checked lipsync-en and partial kokorro
